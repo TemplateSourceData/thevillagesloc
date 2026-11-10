@@ -1,13 +1,13 @@
-Location,Address,City,State,ZIP,Office Phone,Fax,URL
-Residential Construction,7478 Dodson Drive,Middleton,FL,34762,,,TheVillages.com
-Administration,3571 Kiessel Road,The Villages,FL,32163,,,TheVillages.com
-Accounting & Finance,3571 Kiessel Road,The Villages,FL,32163,,,TheVillages.com
-Commercial Purchasing,,,,,,,TheVillages.com
-Guest Services,,,,,,,TheVillages.com
-Home Design,,,,,,,TheVillages.com
-Street of Dreams,6214 Witte Loop,The Villages,FL,32163,,,TheVillages.com
-Community Resource Center,,,,,,,TheVillages.com
-Home Warranty,7478 Dodson Drive,Middleton,FL,34762,,,TheVillages.com
-Human Resources,7580 Middleton Drive,Middleton,FL,34762,,,TheVillages.com
-Commercial Property Management,7580 Middleton Drive,Middleton,FL,34762,,,TheVillagesCommercialProperty.com
-Commercial Property Leasing,7580 Middleton Drive,Middleton,FL,34762,,,TheVillagesCommercialProperty.com
+Location,Address,City,State,ZIP,Office Phone,Fax,URL,DepartmentFrame
+Residential Construction,7478 Dodson Drive,Middleton,FL,34762,,,TheVillages.com,1Line
+Administration,3571 Kiessel Road,The Villages,FL,32163,,,TheVillages.com,1Line
+Accounting & Finance,3571 Kiessel Road,The Villages,FL,32163,,,TheVillages.com,1Line
+Commercial Purchasing,,,,,,,TheVillages.com,1Line
+Guest Services,,,,,,,TheVillages.com,1Line
+Home Design,,,,,,,TheVillages.com,1Line
+Street of Dreams,6214 Witte Loop,The Villages,FL,32163,,,TheVillages.com,1Line
+Community Resource Center,,,,,,,TheVillages.com,2Line
+Home Warranty,7478 Dodson Drive,Middleton,FL,34762,,,TheVillages.com,1Line
+Human Resources,7580 Middleton Drive,Middleton,FL,34762,,,TheVillages.com,1Line
+Commercial Property Management,7580 Middleton Drive,Middleton,FL,34762,,,TheVillagesCommercialProperty.com,2Line
+Commercial Property Leasing,7580 Middleton Drive,Middleton,FL,34762,,,TheVillagesCommercialProperty.com,2Line
